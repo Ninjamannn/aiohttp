@@ -1,0 +1,5 @@
+# our default conf file
+
+
+site_name: 'Demo site'
+database_url: postgresql://alex:asd@localhost:5432/demo
